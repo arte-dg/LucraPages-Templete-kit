@@ -56,12 +56,12 @@ if ( ! version_compare( PHP_VERSION, ENVATO_TEMPLATE_KIT_IMPORT_PHP_VERSION, '>=
  * @since 0.0.2
  *
  * @return void
- */
+
 function template_kit_import_load_plugin_textdomain() {
 	load_plugin_textdomain( 'template-kit-import' );
 }
 
-
+ */
 /**
  * Envato Elements admin notice for minimum PHP version.
  *
